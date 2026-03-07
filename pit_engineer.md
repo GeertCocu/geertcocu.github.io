@@ -1,4 +1,4 @@
-## About the App
+## About Pit Engineer
 
 **Pit-Engineer** is a small Windows application designed to help people tune their cars in various racing games. In my free time, I enjoy playing racing games and trying to achieve the best lap times. Tuning the car to the track can make a significant difference; however, I had little understanding of how to tune a car to my liking. So, I decided to create a stand-alone version of this tool that can be used next to any racing game on Windows! Later, I also developed an Android version of the app.
 
@@ -17,8 +17,8 @@ This app was entirely created by me, and I accomplished the following:
   
 ## In app screenshots
 
-<img width="1280" height="720" alt="Pit_Engineer_2018-04-30_21-50-12" src="https://github.com/user-attachments/assets/b680be4e-56db-4d78-bb6a-d94f291d5f2b" />
+<img alt="Pit_Engineer_2018-04-30_21-50-12" src="https://github.com/user-attachments/assets/b680be4e-56db-4d78-bb6a-d94f291d5f2b" />
 
-<img width="1280" height="720" alt="Pit_Engineer_2018-04-30_21-50-30" src="https://github.com/user-attachments/assets/8ca7f635-9d8f-4763-ad89-4cc426f4073a" />
+<img alt="Pit_Engineer_2018-04-30_21-50-30" src="https://github.com/user-attachments/assets/8ca7f635-9d8f-4763-ad89-4cc426f4073a" />
 
-For more details see [GitHub Flavored Markdown](https://github.com/GeertCocu/Pit-Engineer/).
+For more details see [Pit Engineer](https://github.com/GeertCocu/Pit-Engineer/).
