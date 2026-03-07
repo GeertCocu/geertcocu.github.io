@@ -2,33 +2,32 @@
 
 ---
 
-### Category Name 1 
+### Games 
 
-[Project 1 Title](/pit_engineer)
-<img src="https://github.com/user-attachments/assets/b680be4e-56db-4d78-bb6a-d94f291d5f2b"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Metro Awakening](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
-[Project 3 Title](http://example.com/)
+[Arizona Sunshine 2](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+---
+[After The Fall](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+[Nice Try Plane](/nice_try_plane.md)
+<img src="images/ntp_logo.png"/>
 ---
 
-### Category Name 2
-
-- [Project 1 Title](/pit_engineer)
-- [Project 2 Title](/sample_page)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+### Game Tools
+[IGArt TerrainTool](/igart_terraintool)
+<img src="images/IGArt_Logo.png"/>
+---
+[TSE Pathfinder](/tse_pathfinder)
 ---
 
+### Other Projects
 
-
+- [Pit Engineer](/pit_engineer)
+- [Entry List Generator](/entry_list_generator)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
