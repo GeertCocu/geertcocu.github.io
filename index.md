@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](/Pit-Engineer)
+<img src="https://github.com/user-attachments/assets/b680be4e-56db-4d78-bb6a-d94f291d5f2b"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
