@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Geert Cocu # your name (or website title) here
+logo: "https://avatars.githubusercontent.com/u/6357156?v=4" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>
+  Hello, I am Geert Cocu, a Gameplay Engineer with over 6 years of professional experience in
+  developing fun experiences for gamers around the world. Mainly developing in C# and Unity,
+  but have multiple years experience in C++ and Unreal Engine.
+  In my spare time, other than playing games, I also make various soft/hardware projects.
+  <br>
+  <a href="https://www.linkedin.com/in/geert-cocu-b0363011a/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
